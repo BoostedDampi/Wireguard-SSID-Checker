@@ -1,0 +1,1 @@
+"C:\Program Files\WireGuard\wireguard.exe" /uninstalltunnelservice "WRITE VPN PROFILE HERE"
